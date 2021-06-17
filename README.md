@@ -25,6 +25,12 @@ Brief description of the Working procedure
 ![image](https://user-images.githubusercontent.com/81832778/122360152-ce0bca80-cf73-11eb-8479-7357b00a6b62.png)
 
 
+![image](https://user-images.githubusercontent.com/81832778/122360569-1aefa100-cf74-11eb-84e6-ca8a4fdd6333.png)
+
+![image](https://user-images.githubusercontent.com/81832778/122360633-280c9000-cf74-11eb-877b-88078af71f3e.png)
+
+
+
 
 
 
