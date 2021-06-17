@@ -29,7 +29,9 @@ Brief description of the Working procedure
 
 ![image](https://user-images.githubusercontent.com/81832778/122360633-280c9000-cf74-11eb-877b-88078af71f3e.png)
 
+https://drive.google.com/file/d/1fuPl4JK54FskE1PyEB8o2uY89dyDXq84/view?usp=sharing
 
+video link
 
 
 
