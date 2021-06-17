@@ -1,0 +1,13 @@
+Components used for this project and their Functions
+1)	Two make his project I have used two Arduino .
+2)	Here Arduino -2  acts as a master and Arduino -1 acts as a slave .Arduino -2 controls the activity of the slave(Arduino-1) via Serial communication.
+3)	Temperature measurement part is controlled by Arduino-1 and Sanitizer part is controlled by Arduino-2.
+4)	I have also used two LCD for this Project.
+  a)	One is for showing temperature .
+  b)	Other acts as a Surveillance Monitor. It monitor and display relevant things.
+5)	I have used HcSr04 distance measurement sensor to detect whenever a person is in between the range of 10cm to 20 cm in front of the machine.
+6)	I have used  TM36 to measure temperature.
+7)	At the sanitizer section I have used a servo motor and a LED to represent the sanitizer knob and sanitizer respectively.
+8)	I have used a PIR sensor to activate the sanitizer section whenever a hand  will be placed below the knob.
+9)	I have used  LEDs and  Buzzer for different purpose.
+

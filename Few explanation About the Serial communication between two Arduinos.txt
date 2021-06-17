@@ -1,0 +1,13 @@
+Few explanation About the Serial communication between two Arduinos
+
+1)At first monitor section will show the message , “lets start”.
+2)Then the Master Arduino will send the character “4” and Receiving this character Slave Arduino will print “Enter one person” on the LCD screen.
+3)After that master Arduino will send the character “1” via serial communication to the slave Arduino to activate the temperature measurement section.
+4)When the person will come in between “10-20” cm range (green and red led to indicating him) his temperature is measured and displayed on Serial monitor as well as LCD.
+5) Slave Arduino will send a feedback to the master Arduino. 
+       a) It will send “3” when the temperature is high
+        b) It will send “2” when his temperature is normal
+6)Receiving this Message Master Arduino will show this activity
+7) When the person will move to the sanitizer part and pir will be activated ,The Master Arduino will send the character “5” to the Slave Arduino to turn off  the ,LEDs and Buzzer and temperature measurement sensor and show the “Stop” message for the next person standing on Queue
+8)That means Temperature measurement part of the slave Arduino is Disabled by the master Arduino.
+7) After completing check up and showing this message “next person can enter” , Master Arduino will send the “1” character to enable again the Temperature measurement portion of the Slave Arduino and character “4’ to show the message “Enter one Person”.
